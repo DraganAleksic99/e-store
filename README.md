@@ -1,6 +1,6 @@
 # eStore
 
-eStore is an online store that has a product catalog that customers can browse by category and page, a shopping cart where users can add and remove products, and a checkout where customers can enter their details and place their orders.
+Online store that has a product catalog that customers can browse by category and page, a shopping cart where users can add and remove products, and a checkout where customers can enter their details and place their orders.
 
 ## Stack
 
@@ -18,13 +18,13 @@ eStore is an online store that has a product catalog that customers can browse b
 Run the following command to clone the repo:
 
 ```
-git clone https://github.com/DraganAleksic99/eStore.git
+git clone https://github.com/DraganAleksic99/e-store.git
 ```
 
 ### 2. Install dependencies
 
 ```
-cd eStore
+cd e-store
 npm i
 ```
 
